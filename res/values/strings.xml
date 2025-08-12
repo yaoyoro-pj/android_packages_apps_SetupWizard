@@ -69,14 +69,6 @@
     <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> instead of hardware keys.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
 
-    <!-- Navigation page -->
-    <string name="setup_navigation">Navigation</string>
-    <string name="navigation_summary">Choose preferred navigation method</string>
-    <string name="gesture_navigation">Gesture navigation</string>
-    <string name="two_button_navigation">2-button navigation</string>
-    <string name="navbar_navigation">3-button navigation</string>
-    <string name="hide_gesture_hint">Hide gestural navigation hint</string>
-
     <!-- Theme page -->
     <string name="setup_theme">Theme</string>
     <string name="theme_summary">Dark theme uses a black background to help keep battery alive longer on some screens</string>
