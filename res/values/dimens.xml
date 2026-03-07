@@ -20,4 +20,6 @@
     <dimen name="welcome_title_padding_bottom">16dp</dimen>
     <dimen name="welcome_title_line_height">64dp</dimen>
     <dimen name="welcome_accessibility_text_size">20sp</dimen>
+
+    <dimen name="finish_content_margin_left">20dp</dimen>
 </resources>
